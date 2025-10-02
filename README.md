@@ -1,1 +1,27 @@
-<h1>Ola mundo</h1>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"
+<title>Aluraflix Catálogos/title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<section>
+<div>
+<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+<p>#homem-aranha</p>
+</div>
+<div>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/gt FAE1E820"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen>
+</iframe>
+</div>
+</section>
+</body>
+</html>
